@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Container",
+    "description": "A box model with padding, margins, and alignment.",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Column",
+    "description": "Lays out children vertically.",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "title": "Row",
+    "description": "Lays out children horizontally.",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "title": "ListView",
+    "description": "A scrollable list of widgets.",
+    "completed": true
+  },
+  {
+    "id": 5,
+    "title": "ElevatedButton",
+    "description": "A Material Design button with elevation.",
+    "completed": false
+  },
+  {
+    "id": 6,
+    "title": "Scaffold",
+    "description": "Provides a basic layout structure with app bars, drawers, and floating action buttons.",
+    "completed": true
+  },
+  {
+    "id": 7,
+    "title": "TextField",
+    "description": "An input field for text entry.",
+    "completed": false
+  }
+]
